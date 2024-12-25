@@ -2,7 +2,7 @@
 This repository provides detailed information about all networks supported by our validator.
 
 ## Mainnet
-1) Comoshub 
+1) [CosmosHub](https://github.com/QuasarAI-hub/supported-chains/tree/main/cosmoshub) 
 2) CryptoDungeon
 ## Testnet
 2) Celestia (mocha-4)
